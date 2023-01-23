@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chelel 
+- 👋 Hi, I’m Chelel Korir
 - 👀 I’m interested in Web development and software engineering.
 - 🌱 I’m currently learning The C Language and Html and CSS on the side.
 - 💞️ I’m looking to collaborate on any projects that'll help me better my skills and interact with like-minded individuals.
